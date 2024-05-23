@@ -85,11 +85,11 @@
     padding: 12px 15px;
     outline: none;
     margin-bottom: 20px;
-    border: 1px solid #088178;
+    border: 1px solid #712fdc;;
 }
 
 #form-details form button{
-    background-color: #088178;
+    background-color: #712fdc;;
     color: white;
 }
 #form-details form button:hover{

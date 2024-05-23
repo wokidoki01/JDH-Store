@@ -427,7 +427,7 @@ body {
   padding-top: 7px;
   font-size: 15px;
   font-weight: 700;
-  color: #088178;
+  color: #712fdc;
 }
 
 #product1 .pro .cart {
@@ -437,7 +437,7 @@ body {
   border-radius: 50px;
   background-color: #e8f6ea;
   font-weight: 500;
-  color: #088178;
+  color: #712fdc;;
   position: absolute;
   bottom: 20px;
   right: 15px;
@@ -474,7 +474,7 @@ body {
 }
 
 #banner button:hover {
-  background-color: #088178;
+  background-color: #712fdc;
   color: #fff;
 }
 
@@ -514,8 +514,9 @@ body {
 }
 
 #sm-banner .bannner-box:hover button {
-  background-color: #088178;
-  border: 1px solid #088178;
+  background-color: #712fdc;
+  
+  border: 1px solid #712fdc;
 }
 
 #sm-banner .bannner-box:nth-child(2) {
@@ -632,7 +633,7 @@ body {
 }
 
 #newsletter a button {
-  background-color: #088178;
+  background-color: #712fdc;
   color: white;
   white-space: nowrap;
   height: 3.125rem;
@@ -698,7 +699,7 @@ footer .follow i {
 }
 
 footer .install .row img {
-  border: 1px solid #088178;
+  border: 1px solid #712fdc;
   border-radius: 6px;
   cursor: pointer;
 }
@@ -710,7 +711,7 @@ footer .install img {
 
 footer .follow i:hover,
 footer a:hover {
-  color: #088178;
+  color: #712fdc;
 }
 
 footer .copyright {
